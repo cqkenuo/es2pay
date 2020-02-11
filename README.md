@@ -24,7 +24,7 @@
 - 支付系统具体功能以演示站为主。
 
 ### 在线demo
-- 本项目演示地址： [点此测试](https://espay.jmkeji.net)
+- 本项目演示地址： [点此测试](http://espay.jmkeji.net)
 
 ### 开始部署
-- 本项目源码下载： [点此下载](https://espay.jmkeji.net)
+- 本项目源码下载： [点此下载](http://espay.jmkeji.net)
